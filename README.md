@@ -1,2 +1,2 @@
 # josecamachovaca.github.io
-pagina de prueba hotel rio
+pagina de Resultados laboratorio
